@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Use an AJAX call to check if the user is impersonating  before adding the 'Unimpersonate' option to the profile menu. Set false to always show 'Unimpersonate'.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>snd_ui16dp.profile.menu.check_impersonation</name>
+        <read_roles/>
+        <suffix>snd_ui16dp.profile.menu.check_impersonation</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>james@sndeveloper.com_SHARE</sys_created_by>
+        <sys_created_on>2016-10-04 07:51:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c803b3f40f1a6a00c55a09ece1050e63</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>snd_ui16dp.profile.menu.check_impersonation</sys_name>
+        <sys_package display_value="SND UI16 Developer Patch" source="e96776dc0fde2a00c55a09ece1050eef">e96776dc0fde2a00c55a09ece1050eef</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SND UI16 Developer Patch">e96776dc0fde2a00c55a09ece1050eef</sys_scope>
+        <sys_update_name>sys_properties_c803b3f40f1a6a00c55a09ece1050e63</sys_update_name>
+        <sys_updated_by>james@sndeveloper.com_SHARE</sys_updated_by>
+        <sys_updated_on>2016-10-04 07:59:38</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=c803b3f40f1a6a00c55a09ece1050e63"/>
+</record_update>
