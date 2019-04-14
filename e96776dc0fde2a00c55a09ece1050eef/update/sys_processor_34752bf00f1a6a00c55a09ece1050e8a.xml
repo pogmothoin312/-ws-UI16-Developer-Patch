@@ -96,18 +96,18 @@
 
 })(g_request, g_response, g_processor);]]></script>
         <sys_class_name>sys_processor</sys_class_name>
-        <sys_created_by>james@sndeveloper.com_SHARE</sys_created_by>
+        <sys_created_by>james@sndeveloper.com</sys_created_by>
         <sys_created_on>2016-10-04 07:09:22</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>34752bf00f1a6a00c55a09ece1050e8a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>snd_ui16dp</sys_name>
-        <sys_package display_value="SND UI16 Developer Patch" source="e96776dc0fde2a00c55a09ece1050eef">e96776dc0fde2a00c55a09ece1050eef</sys_package>
+        <sys_package display_value="[ws] UI16 Developer Patch" source="e96776dc0fde2a00c55a09ece1050eef">e96776dc0fde2a00c55a09ece1050eef</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="SND UI16 Developer Patch">e96776dc0fde2a00c55a09ece1050eef</sys_scope>
+        <sys_scope display_value="[ws] UI16 Developer Patch">e96776dc0fde2a00c55a09ece1050eef</sys_scope>
         <sys_update_name>sys_processor_34752bf00f1a6a00c55a09ece1050e8a</sys_update_name>
-        <sys_updated_by>james@sndeveloper.com_SHARE</sys_updated_by>
+        <sys_updated_by>james@sndeveloper.com</sys_updated_by>
         <sys_updated_on>2016-10-04 07:09:22</sys_updated_on>
         <type>script</type>
     </sys_processor>

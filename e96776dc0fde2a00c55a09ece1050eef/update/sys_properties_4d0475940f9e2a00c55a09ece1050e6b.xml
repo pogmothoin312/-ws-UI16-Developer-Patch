@@ -8,7 +8,7 @@
         <read_roles/>
         <suffix>snd_ui16dp.pickers.width.min</suffix>
         <sys_class_name>sys_properties</sys_class_name>
-        <sys_created_by>james@sndeveloper.com_SHARE</sys_created_by>
+        <sys_created_by>james@sndeveloper.com</sys_created_by>
         <sys_created_on>2016-10-02 09:18:10</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>4d0475940f9e2a00c55a09ece1050e6b</sys_id>
@@ -17,9 +17,9 @@
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="SND UI16 Developer Patch">e96776dc0fde2a00c55a09ece1050eef</sys_scope>
+        <sys_scope display_value="[ws] UI16 Developer Patch">e96776dc0fde2a00c55a09ece1050eef</sys_scope>
         <sys_update_name>sys_properties_4d0475940f9e2a00c55a09ece1050e6b</sys_update_name>
-        <sys_updated_by>james@sndeveloper.com_SHARE</sys_updated_by>
+        <sys_updated_by>james@sndeveloper.com</sys_updated_by>
         <sys_updated_on>2016-10-04 10:16:29</sys_updated_on>
         <type>integer</type>
         <value>30</value>
