@@ -2,7 +2,7 @@
     <sys_properties_category_m2m action="INSERT_OR_UPDATE">
         <category display_value="[ws] UI16 Developer Patch">c125b5580f9e2a00c55a09ece1050e59</category>
         <order>700</order>
-        <property display_value="snd_ui16dp.profile.menu.link_preferences" name="snd_ui16dp.profile.menu.link_preferences">ffddb47bdba14340c73ad12c5e9619f0</property>
+        <property display_value="">ffddb47bdba14340c73ad12c5e9619f0</property>
         <sys_class_name>sys_properties_category_m2m</sys_class_name>
         <sys_created_by>james@thewhitespace.io</sys_created_by>
         <sys_created_on>2017-10-08 11:55:53</sys_created_on>

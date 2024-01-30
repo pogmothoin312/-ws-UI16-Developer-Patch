@@ -4,6 +4,7 @@
         <description>UI16 Developer Patch&#13;
 Configuration can be modified using system properties prefixed with 'snd_ui16dp'.</description>
         <global>true</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
         <name>snd_ui16_developer_patch</name>
         <script><![CDATA[/*!
   UI16 Developer Patch
@@ -791,6 +792,7 @@ else if (window == window.top) {
         <sys_update_name>sys_ui_script_4b9d58530fd81200c55a09ece1050e8f</sys_update_name>
         <sys_updated_by>james@thewhitespace.io</sys_updated_by>
         <sys_updated_on>2017-11-22 14:02:35</sys_updated_on>
+        <ui_type>0</ui_type>
         <use_scoped_format>false</use_scoped_format>
     </sys_ui_script>
 </record_update>

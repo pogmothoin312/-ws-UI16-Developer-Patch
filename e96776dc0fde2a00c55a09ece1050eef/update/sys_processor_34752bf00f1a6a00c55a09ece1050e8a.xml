@@ -10,7 +10,7 @@
         <path>snd_ui16dp</path>
         <path_endpoint/>
         <require_csrf>false</require_csrf>
-        <roles/>
+        <roles>snc_internal</roles>
         <script><![CDATA[(function process(g_request, g_response, g_processor) {
 
   var json = new global.JSON();
@@ -110,5 +110,6 @@
         <sys_updated_by>james@sndeveloper.com</sys_updated_by>
         <sys_updated_on>2016-10-04 07:09:22</sys_updated_on>
         <type>script</type>
+        <xframe_sameorigin>false</xframe_sameorigin>
     </sys_processor>
 </record_update>

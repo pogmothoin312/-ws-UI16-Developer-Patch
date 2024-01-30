@@ -3,6 +3,7 @@
         <active>true</active>
         <description>Menu configurations for UI16 Developer Patch</description>
         <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
         <name>snd_ui16_developer_patch_menus</name>
         <script><![CDATA[/**
  * A list of functions that return arrays of menu items.
@@ -310,6 +311,7 @@ var snd_ui16_developer_patch_menus = {
         <sys_update_name>sys_ui_script_646becd2dbe68300b1307b5b8c9619e3</sys_update_name>
         <sys_updated_by>james@thewhitespace.io</sys_updated_by>
         <sys_updated_on>2017-11-22 14:03:28</sys_updated_on>
+        <ui_type/>
         <use_scoped_format>false</use_scoped_format>
     </sys_ui_script>
 </record_update>
