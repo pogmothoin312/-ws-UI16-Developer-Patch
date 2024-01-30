@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created/>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>traditional</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category/>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="SND UI16 Developer Patch">7d67b2100f126a00c55a09ece1050ee3</menu>
+        <name>[ws] UI16 Developer Patch</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking/>
+        <scope>global</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Enhance the UI16 experience</short_description>
+        <source>e96776dc0fde2a00c55a09ece1050eef</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>james@sndeveloper.com</sys_created_by>
+        <sys_created_on>2016-10-02 14:12:35</sys_created_on>
+        <sys_id>e96776dc0fde2a00c55a09ece1050eef</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_updated_by>james@thewhitespace.io</sys_updated_by>
+        <sys_updated_on>2017-11-22 14:08:32</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>2.4.2</version>
+    </sys_app>
+</record_update>
